@@ -1,6 +1,6 @@
 # insan-canavar
 
-insan ve canavar kapışması oyunu, gerçekten zorlayıcı bir oyun çünki insan ve canavar eşit seviyede neredeyse, tabi canavara karşı daha insanlık kazanması için,
+insan ve canavar kapışması oyunu, gerçekten zorlayıcı bir oyun çünki insan ve canavar eşit seviyede neredeyse, düşman canavar olduğundan, insanlık kazanması için,
 
 özel saldırı butonu eklendi daha fazla hasar veriyor. iyi oyunlar.
 
